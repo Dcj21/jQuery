@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+30 November 2018
 
 ### Student Name:  
-(First and Last Name)
+Juan D Carballo Sanchez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the jQuery framework, which is a JavaScript library.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dcj21.github.io/lesson7_jQuery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1.  The use of the toggle function 
+2.  The use of the hover function
+3.  The use of the currentTarget function.
